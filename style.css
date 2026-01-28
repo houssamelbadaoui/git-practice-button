@@ -15,3 +15,6 @@ body {
 #myButton:hover {
   background-color: darkblue;
 }
+.active {
+  background-color: seagreen !important;
+}
